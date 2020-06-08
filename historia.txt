@@ -4,5 +4,12 @@ marcelo tiene 22 años y nacio en ecuador y pasando por todo el mundo
 
 master 1
 
+<<<<<<< HEAD
 master 2
+=======
+experimento 1
+
+experimento 2
+
+>>>>>>> 922fa78... exp 2
 mañana hableremos de toda su vida 
